@@ -1,0 +1,4 @@
+"Exame Clínico","Audiometria","Acuidade Visual","Eletrocardiograma","Eletroencefalograma","Espirometria",
+"Raio-X(Torax)","Raio-X(Lombar)","Avaliação Psicossocial","Avaliação Epwroth","Teste Romberg","Hemograma","Glicemia",
+"GamaGT","Colinesterase Plasmatica","Colinesterase Eriytocitaria","TGP","TGO","IGE(Teste Abelha)","Ácido Hipurico",
+"Ácido Metil-Hipurico","Acido Trans-Muconico","Urina","Coprocultura","Parasitologico de fezes","Micologico de Unha"
